@@ -1,2 +1,3 @@
- # clone-TabNews
- recriando o tabNews do curso.dev
+# clone-TabNews
+
+recriando o tabNews do curso.dev
